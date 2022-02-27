@@ -1,0 +1,7 @@
+*.csv
+*.txt
+*.docx
+*.pdf
+*.png
+*.jpg
+*.Dockerfile
